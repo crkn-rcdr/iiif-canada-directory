@@ -68,8 +68,7 @@ Looking to connect with other IIIF users in Canada? Join the **#canada** channel
 Future ideas include:
 - A GitHub Pages version of this list
 - Tagging/filtering by collection type (maps, manuscripts, AV, etc.)
-- A companion list of tools and tech (e.g., Blacklight, Spotlight)
-- Webinars to showcase Canadian implementations
+- Webinars to showcase Canadian implementations and collaborations
 
 ---
 
