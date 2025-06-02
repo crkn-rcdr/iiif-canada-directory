@@ -55,7 +55,7 @@ Looking to connect with other IIIF users in Canada? Join the **#canada** channel
 
 ## 📚 Resources
 
-- [IIIF.io – Official Website](https://iiif.io/)
+- [IIIF – Official Website](https://iiif.io/)
 - [Mirador Viewer](https://projectmirador.org/)
 - [Universal Viewer](https://universalviewer.io/)
 - [Digirati Manifest Editor](https://manifest-editor.digirati.services/)
