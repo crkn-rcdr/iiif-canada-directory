@@ -57,6 +57,7 @@ Looking to connect with other IIIF users in Canada? Join the **#canada** channel
 
 - [IIIF.io – Official Website](https://iiif.io/)
 - [Mirador Viewer](https://projectmirador.org/)
+- [Universal Viewer](https://universalviewer.io/)
 - [Digirati Manifest Editor](https://manifest-editor.digirati.services/)
 - [IIIF Community Slack](https://iiif.io/community/#slack)
 - [Canadian Association of Research Libraries (CARL)](https://www.carl-abrc.ca/) – some members may support IIIF
