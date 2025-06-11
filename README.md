@@ -35,7 +35,7 @@ This list is intended to help:
 
 ## ✍️ Contributing
 
-We welcome contributions from anyone who knows of a Canadian IIIF-enabled collection or service! Here’s how you can add or update entries:
+We welcome contributions, in English and French, from anyone who knows of a Canadian IIIF-enabled collection or service! Here’s how you can add or update entries:
 
 1. Fork this repository
 2. Edit the `README.md` file and add your institution’s info to the table
