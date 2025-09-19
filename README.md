@@ -41,7 +41,7 @@ We welcome contributions, in English and French, from anyone who knows of a Cana
 2. Edit the `README.md` file and add your institution’s info to the table
 3. Submit a Pull Request (PR) with your changes
 
-Not sure how to use GitHub? [Open an issue](https://github.com/[your-org]/iiif-canada-directory/issues) with your info and we’ll help get it added.
+Not sure how to use GitHub? [Open an issue](https://github.com/crkn-rcdr/iiif-canada-directory/issues/new) with your info and we’ll help get it added.
 
 We’re especially interested in:
 - Public IIIF Presentation API endpoints
